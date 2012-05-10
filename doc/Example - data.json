@@ -1,0 +1,21 @@
+Data API (OLC Card Matching)
+
+  [{
+    "name":"Deck 1", 
+    "machineName":"deck1",
+    "rounds":[
+      [
+        {"text":"the star",  "machineName":"little-star"},
+        {"text":"the moon",  "machineName":"little-moon"},
+        {"text":"the world", "machineName":"big-star"},
+        {"text":"the sky",   "machineName":"big-moon"}
+      ],[
+        {"text":"you are",     "machineName":"you-are"},
+        {"text":"you are not", "machineName":"you-are-not"},
+        {"text":"I am",        "machineName":"I-am"},
+        {"text":"I am not",    "machineName":"I-am-not"}
+      ]
+    ]
+  },{
+  
+  }]

@@ -1,0 +1,17 @@
+# Here are instructions on creating *.deck files
+
+[Name of deck 1]
+# The first part of the file is the name of the deck
+
+Sentence, phrase, or word here # One empty line above each new round
+Sentence, phrase, or word here
+Sentence, phrase, or word here 
+Sentence, phrase, or word here 
+
+Sentence, phrase, or word here # This is a new round (because of empty line above)
+Sentence, phrase, or word here 
+Sentence, phrase, or word here 
+Sentence, phrase, or word here 
+
+# Notes:
+# Comments begin with the hash (#) symbol
